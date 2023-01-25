@@ -1,1 +1,1 @@
-pairs='BTCUSDT'
+pairs='BTCUSDT2'
